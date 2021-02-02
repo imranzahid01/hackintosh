@@ -639,7 +639,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v alcid=1 shikigva=128 watchdog=0 agdpmod=pikera</string>
+				<string>-v -wegnoegpu -igfxvesa igfxfw=2</string>
 				<key>csr-active-config</key>
 				<data>hwcAAA==</data>
 				<key>prev-lang:kbd</key>
