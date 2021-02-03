@@ -741,7 +741,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K906300J9FHDDJC</string>
+			<string>C02151802QX0000JC</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -751,11 +751,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KY79ZTP7QM</string>
+			<string>C02GVFYK046M</string>
 			<key>SystemUUID</key>
-			<string>264BF5E9-1CCA-49EB-9D70-58F539B3517D</string>
+			<string>3750F36A-4FA2-4AEA-8F9C-5901E9469D0F</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
